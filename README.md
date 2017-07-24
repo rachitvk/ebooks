@@ -15,6 +15,8 @@
 
   * [Golang](golang/)
     - [An Introduction to Programming in Go - Caleb Doxsey](golang/Go%20Book%20-%20Introduction%20[Caleb%20Doxsey].pdf)
+    - [Effective Go - Chinese+English (epub)](golang/golang-effective-go-zh-en.epub)
+    - [Effective Go - Chinese+English (pdf)](golang/golang-effective-go-zh-en.pdf)
     - [Go Bootcamp by Matt Aimonetti (epub)](golang/Go%20Bootcamp%20[Matt%20Aimonetti].epub)
     - [Go Bootcamp by Matt Aimonetti (pdf)](golang/Go%20Bootcamp%20[Matt%20Aimonetti].pdf)
     - [Go Programming Language (epub)](golang/Go%20Programming%20Language.epub)

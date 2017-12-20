@@ -54,6 +54,8 @@
     - [Node.js By Example](js/Node.js%20By%20Example.pdf)
     - [Node.js Pro REST API Development](js/Node.js%20Pro%20REST%20API%20Development.pdf)
     - [Node.js Web Development with MongoDB, 2nd Edition](js/Node.js%20Web%20Development%20with%20MongoDB,%202nd%20Edition.pdf)
+    - [React, The road to learn - Robin Wieruch (epub)](js/ReactJS-the-road-to-learn-react.epub) | [github](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
+    - [React, The road to learn - Robin Wieruch (pdf)](js/ReactJS-the-road-to-learn-react.pdf)
 
   * [Photography](photography/)
     - [Glyn Dewis - The Photoshop Workbook (epub)](photography/Glyn%20Dewis%20-%20The%20Photoshop%20Workbook.epub)

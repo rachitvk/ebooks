@@ -54,6 +54,8 @@
     - [Node.js By Example](js/Node.js%20By%20Example.pdf)
     - [Node.js Pro REST API Development](js/Node.js%20Pro%20REST%20API%20Development.pdf)
     - [Node.js Web Development with MongoDB, 2nd Edition](js/Node.js%20Web%20Development%20with%20MongoDB,%202nd%20Edition.pdf)
+    - [Packt - Learning Vue.js 2 - 2016.12 (epub)](js/Packt%20-%20Learning%20Vue.js%202%20-%202016.12.epub)
+    - [Packt - Learning Vue.js 2 - 2016.12 (pdf)](js/Packt%20-%20Learning%20Vue.js%202%20-%202016.12.pdf)
     - [React, The road to learn - Robin Wieruch (epub)](js/ReactJS-the-road-to-learn-react.epub) | [github](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
     - [React, The road to learn - Robin Wieruch (pdf)](js/ReactJS-the-road-to-learn-react.pdf)
     - [ReactJS Succinctly - Samer Buna (epub)](js/ReactJS%20Succinctly.epub)

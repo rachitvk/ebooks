@@ -60,6 +60,8 @@
     - [React, The road to learn - Robin Wieruch (pdf)](js/ReactJS-the-road-to-learn-react.pdf)
     - [ReactJS Succinctly - Samer Buna (epub)](js/ReactJS%20Succinctly.epub)
     - [ReactJS Succinctly - Samer Buna (pdf)](js/ReactJS%20Succinctly.pdf)
+    - [Learning Vue.js by Fabio Vedovelli](js/Fabio%20Vedovelli%20-%20Learning%20Vue.js.epub)
+    - [Official Vue.js Guide](js/VueJs%20Guide.epub)
 
   * [Photography](photography/)
     - [Glyn Dewis - The Photoshop Workbook (epub)](photography/Glyn%20Dewis%20-%20The%20Photoshop%20Workbook.epub)

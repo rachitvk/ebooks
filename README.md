@@ -59,6 +59,7 @@
     - [Node.js - Deploying Node.js](js/Node.js%20-%20Deploying%20Node.js.pdf)
     - [Node.js By Example](js/Node.js%20By%20Example.pdf)
     - [Node.js Pro REST API Development](js/Node.js%20Pro%20REST%20API%20Development.pdf)
+    - [Node.js Succinctly (2016)](js/Nodejs_Succinctly.pdf) | [epub](js/Nodejs_Succinctly.epub)
     - [Node.js Web Development with MongoDB, 2nd Edition](js/Node.js%20Web%20Development%20with%20MongoDB,%202nd%20Edition.pdf)
     - [O'Reilly Learning React 2017.05](js/OReilly%20-%20Learning%20React.epub) |
       [azw3](js/OReilly%20-%20Learning%20React%20Functional%20Web%20Development.azw3) |

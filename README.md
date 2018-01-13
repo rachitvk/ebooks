@@ -55,6 +55,7 @@
     - [Denys Vuika - Developing with Angular](js/developing-with-angular.pdf) | [epub](js/developing-with-angular.epub)
     - [Front-End Developer Handbook 2017](js/front-end-handbook-2017.pdf) | [epub](js/front-end-handbook-2017.epub)
     - [Keystone.js Succinctly (2017)](js/Keystonejs_Succinctly.pdf) | [epub](js/Keystonejs_Succinctly.epub)
+    - [Node.js Basics (2016)](js/nodejs-basics.pdf) | [epub](nodejs-basicsjs/.epub)
     - [Node.js - Deploying Node.js](js/Node.js%20-%20Deploying%20Node.js.pdf)
     - [Node.js By Example](js/Node.js%20By%20Example.pdf)
     - [Node.js Pro REST API Development](js/Node.js%20Pro%20REST%20API%20Development.pdf)

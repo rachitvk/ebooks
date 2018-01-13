@@ -50,6 +50,7 @@
     - [JavaScript - Patterns - Stoyan Stefanov](js/JavaScript%20-%20Patterns-[Stoyan%20Stefanov].pdf)
     - [JavaScript - The Good Parts](js/JavaScript%20-%20The%20Good%20Parts.pdf)
     - [JavaScript - Tutorial](js/JavaScript%20-%20Tutorial.pdf)
+    - [D3 Tips and Tricks (2017)](js/D3-Tips-and-Tricks.pdf) | [epub](js/D3-Tips-and-Tricks.epub)
     - [Node.js - Deploying Node.js](js/Node.js%20-%20Deploying%20Node.js.pdf)
     - [Node.js By Example](js/Node.js%20By%20Example.pdf)
     - [Node.js Pro REST API Development](js/Node.js%20Pro%20REST%20API%20Development.pdf)

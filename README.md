@@ -68,6 +68,7 @@
       [pdf](js/OReilly%20-%20Learning%20React%20Functional%20Web%20Development.pdf)
     - [Packt - Learning Vue.js 2 - 2016.12 (epub)](js/Packt%20-%20Learning%20Vue.js%202%20-%202016.12.epub)
     - [Packt - Learning Vue.js 2 - 2016.12 (pdf)](js/Packt%20-%20Learning%20Vue.js%202%20-%202016.12.pdf)
+    - [React Enlightenment](js/react-enlightenment.pdf) | [epub](js/react-enlightenment.epub)
     - [React, The road to learn - Robin Wieruch (epub)](js/ReactJS-the-road-to-learn-react.epub) | [github](https://github.com/the-road-to-learn-react/the-road-to-learn-react)
     - [React, The road to learn - Robin Wieruch (pdf)](js/ReactJS-the-road-to-learn-react.pdf)
     - [ReactJS Succinctly - Samer Buna (epub)](js/ReactJS%20Succinctly.epub)

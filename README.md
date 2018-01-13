@@ -54,6 +54,7 @@
     - [D3.js 4 mapping - 2nd Edition](js/d3.js%204%20mapping%20-%202nd%20edition.pdf)
     - [Denys Vuika - Developing with Angular](js/developing-with-angular.pdf) | [epub](js/developing-with-angular.epub)
     - [Front-End Developer Handbook 2017](js/front-end-handbook-2017.pdf) | [epub](js/front-end-handbook-2017.epub)
+    - [Keystone.js Succinctly (2017)](js/Keystonejs_Succinctly.pdf) | [epub](js/Keystonejs_Succinctly.epub)
     - [Node.js - Deploying Node.js](js/Node.js%20-%20Deploying%20Node.js.pdf)
     - [Node.js By Example](js/Node.js%20By%20Example.pdf)
     - [Node.js Pro REST API Development](js/Node.js%20Pro%20REST%20API%20Development.pdf)

@@ -74,6 +74,7 @@
     - [React, The road to learn - Robin Wieruch (pdf)](js/ReactJS-the-road-to-learn-react.pdf)
     - [ReactJS Succinctly - Samer Buna (epub)](js/ReactJS%20Succinctly.epub)
     - [ReactJS Succinctly - Samer Buna (pdf)](js/ReactJS%20Succinctly.pdf)
+    - [Farhad Ghayour - UI with React (2017)](js/ui-react.pdf) | [epub](js/ui-react.epub)
     - [Learning Vue.js by Fabio Vedovelli](js/Fabio%20Vedovelli%20-%20Learning%20Vue.js.epub)
     - [Official Vue.js Guide](js/VueJs%20Guide.epub)
 

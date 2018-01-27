@@ -54,6 +54,7 @@
     - [JavaScript - You Don't Know JS](js/you-don-t-know-js.pdf) | [epub](js/you-don-t-know-js.epub)
     - [D3 Tips and Tricks (2017)](js/D3-Tips-and-Tricks.pdf) | [epub](js/D3-Tips-and-Tricks.epub)
     - [D3.js 4 mapping - 2nd Edition](js/d3.js%204%20mapping%20-%202nd%20edition.pdf)
+    - [ng - Learning Angular 2nd Edition](js/ng-Learning-Angular-2nd-Edition.pdf)
     - [Denys Vuika - Developing with Angular](js/developing-with-angular.pdf) | [epub](js/developing-with-angular.epub)
     - [Front-End Developer Handbook 2017](js/front-end-handbook-2017.pdf) | [epub](js/front-end-handbook-2017.epub)
     - [Keystone.js Succinctly (2017)](js/Keystonejs_Succinctly.pdf) | [epub](js/Keystonejs_Succinctly.epub)

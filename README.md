@@ -44,6 +44,7 @@
 
   * [JavaScript](js/)
     - [JavaScript - Add Sparkle and Life to Your Web Pages - 3rd Edition (2016)](js/JavaScript%20-%20Add%20Sparkle%20and%20Life%20to%20Your%20Web%20Pages%20-%203rd%20Edition%20%282016%29.pdf)
+    - [JavaScript - Design Patterns (2012)](js/JavaScript%20-%20Design%20Patterns%202012.pdf)
     - [JavaScript - Essential Design Patterns](js/JavaScript%20-%20Essential%20Design%20Patterns.pdf)
     - [JavaScript - Essential Tutorial](js/JavaScript%20-%20Essential%20Tutorial.pdf)
     - [JavaScript - Mastering Design Patterns](js/JavaScript%20-%20Mastering%20Design%20Patterns.pdf)
